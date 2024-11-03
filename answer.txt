@@ -1,0 +1,8 @@
+Q: What is your service email id?
+A: xyz@service.com
+
+Q: What is your company address?
+A: 123 Service Lane, Service City, SC 12345
+
+Q: How do I reset my password?
+A: Please go to the "Forgot Password" section on our login page.
