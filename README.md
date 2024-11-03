@@ -1,6 +1,6 @@
-# Simple Java Chatbot
+# Java Chatbot
 
-A basic chatbot built in Java that reads questions and answers from a text file (`answer.txt`). When a user asks a question, the bot responds with a predefined answer or notifies the user if the question is outside its scope.
+A chatbot built in Java that reads questions and answers from a text file (`answer.txt`). When a user asks a question, the bot responds with a predefined answer or notifies the user if the question is outside its scope.
 
 ## Project Structure
 
